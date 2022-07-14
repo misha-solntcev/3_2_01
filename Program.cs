@@ -30,7 +30,7 @@ namespace _3_2_01
                     newString += myWord[i] + " ";
                 }                
             }
-            Console.WriteLine("{0}", newString);
+            Console.WriteLine("newString = '{0}'", newString);
 
             Console.ReadKey();
         }
